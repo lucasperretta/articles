@@ -1,4 +1,4 @@
-## 📚 Lucas Perretta's Articles
+## 📝 Lucas Perretta's Articles
 
 Welcome to my repository for programming articles! Here you will find a collection of my written articles about Programming, covering topics such as Android Development, Software Engineering and some general Geek Stuff! 🤓
 
